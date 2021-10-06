@@ -69,3 +69,10 @@ Services of the ACME co.
   hosts of ACME co’s networks. You can opt for any software solution, for example, the rsyslog already
   installed, the zentyal’s logging facility, another logging software you can get from the repositories. You can
   also consider installing a web interface to better visualize the logs.
+
+# Authors
+Emanuele Santo Iaia [<img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="20" height="20">](https://www.linkedin.com/in/emanuele-santo-iaia-4315411a2/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="20" height="20">](https://github.com/Lelito-IAIA)
+
+Simone Giordano [<img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="20" height="20">](https://www.linkedin.com/in/simone-giordano-itengineer/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="20" height="20">](https://github.com/SimoneGiordanoIT)
